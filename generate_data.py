@@ -1,3 +1,10 @@
+import pandas as pd
+import random
+from datetime import datetime, timedelta
+
+# Set seed for reproducible data generation
+random.seed(42)
+
 # ====================================================================
 # 1. GENERATE INFLUENCERS DATA
 # ====================================================================
